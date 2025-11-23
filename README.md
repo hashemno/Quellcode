@@ -1,7 +1,7 @@
 # Quellcode — Sammlung meiner wichtigsten Software-Projekte
 
 [![Build Status](https://img.shields.io/badge/build-n/a-lightgrey)](#) 
-[![License](https://img.shields.io/badge/license-none-blue.svg)](#) 
+
 [![Language](https://img.shields.io/badge/language-C%23-178600.svg)](#) 
 [![Unity](https://img.shields.io/badge/Unity-2022.3-blueviolet)](#) 
 
