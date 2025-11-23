@@ -36,18 +36,6 @@ Tech‑Stack (Kurz)
 - Game Engine: Unity (falls in Projekten verwendet)
 - Weitere Tools: (z. B. Blender für 3D, Python/Node.js/PowerShell für Scripting) — bitte in jeweiligen Unterprojekten nachsehen
 
-Beispiel‑Ordnerstruktur
------------------------
-Hinweis: Passe die Struktur an, falls dein Repo abweicht.
-
-- /UnityProjects/          — Unity‑Szenen, Projekte, Scenes, Assets  
-- /NPC‑AI/                 — KI‑Systeme, State Machines, Behavior Trees  
-- /Models/                 — 3D‑Modelle, Texturen, Export‑Settings  
-- /Scripts/                — Helper‑Skripte, Build‑ und Automation‑Skripte  
-- /Tools/                  — kleine CLI‑Tools oder Anwendungen zur Datenverarbeitung  
-- /Docs/                   — Projekt‑Dokumentation, How‑tos, Design‑Notes  
-- README.md                — Diese Datei
-
 Schnellstart
 -----------
 1. Repository klonen:
@@ -55,46 +43,14 @@ Schnellstart
    git clone https://github.com/hashemno/Quellcode.git
    cd Quellcode
    ```
-2. Für Unity‑Projekte: Öffne das Projektverzeichnis in Unity (Hub) und lade die gewünschte Scene.
-3. Für C#‑Tools: Öffne das Projekt in Visual Studio / Rider und build/run.
-4. Für Skripte: Lies die README im jeweiligen Unterordner für dependencies / Laufzeitbefehle (z. B. npm install, pip install -r requirements.txt, dotnet restore).
-5. Tests: Wenn vorhanden, führe die Tests gemäß Unterprojekt‑Anleitung aus (z. B. dotnet test).
-
-Wie du ein bestimmtes Projekt startest
-------------------------------------
-Jedes Unterprojekt sollte eine eigene README.md mit:
-- Kurzer Projektbeschreibung
-- Abhängigkeiten
-- Quickstart‑Befehlen (install / run / test)
-- Beispiel‑Outputs / Screenshots
-
-Beitrag leisten
----------------
-Beiträge sind willkommen. Vorschlag:
-1. Issue eröffnen oder vorhandenes Issue auswählen.
-2. Fork → Branch erstellen (z. B. feature/mein-feature).
-3. Änderungen committen und PR erstellen mit klarer Beschreibung.
-
-Bitte Code Style und Commit‑Konventionen im jeweiligen Unterprojekt beachten.
 
 Lizenz
 ------
-Derzeit keine Lizenz angegeben. Falls du eine Lizenz hinzufügen möchtest, z. B. MIT, füge eine LICENSE‑Datei hinzu und aktualisiere diesen Abschnitt.
+Derzeit keine Lizenz angegeben.
 
 Kontakt
 -------
 Maintainer: hashemno — https://github.com/hashemno
 Bei Fragen oder Kollaborationswünschen öffne bitte ein Issue oder kontaktiere mich über mein GitHub‑Profil.
 
-Tipps für Lebenslauf / Portfolio
--------------------------------
-- Verlinke einzelne aussagekräftige Unterprojekte (z. B. NPC‑AI) direkt.
-- Schreibe in deinem CV 1–2 Zeilen: Problem, deine Lösung, Technologien, Ergebnis (metrisch wenn möglich).
-- Ergänze Unterprojekte mit Screenshots oder kurzen GIFs im /Docs/ Ordner.
 
-Was noch fehlt / To‑Do (Empfehlungen)
-------------------------------------
-- Für jedes Unterprojekt eigene README.md mit Quickstart und Tech‑Stack
-- Badges (Build/Tests/Coverage) pro Unterprojekt
-- LICENSE ergänzen
-- Screenshots / Demo GIFs in /Docs/ 
