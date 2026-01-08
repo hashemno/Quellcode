@@ -43,7 +43,6 @@ Dieses Repository fasst mehrere kleinere und mittlere Projekte zusammen, die unt
 - Erstellung und Anpassung von 3D-Modellen und Assets in Blender  
 - Motion-Capture-Animationen (Nicken, Winken, Blinzeln)  
 - Automatisierung von Build-Prozessen (Python, PowerShell)  
-- Verarbeitung und Analyse von CAD/3D-Daten (Pixyz, Catia)  
 - Dokumentation, Beispiel-Setups und Tutorials für jedes Projekt  
 
 ---
@@ -53,7 +52,6 @@ Dieses Repository fasst mehrere kleinere und mittlere Projekte zusammen, die unt
 - **Game Engine:** Unity 2022.3+  
 - **3D-Modellierung & Animation:** Blender, Motion Capture  
 - **Versionierung & CI/CD:** Git, GitHub, GitLab, SonarQube  
-- **CAD/3D Pipeline:** Pixyz, Catia, VRUT  
 
 ---
 
